@@ -4,6 +4,7 @@ title = "GUADR"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
+publishDir = "guadr.github.io"
 
 [params]
     author = "GUADR Team"
@@ -47,6 +48,6 @@ googleAnalytics = ""
     weight = 2
 
 [[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
+    url = "https://www.stackoverflow.com/users/11093247/luke"
     name = "stack-overflow"
     weight = 5
